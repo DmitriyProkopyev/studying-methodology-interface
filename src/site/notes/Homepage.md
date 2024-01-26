@@ -110,3 +110,4 @@ g & h
 = \color {red} {aei} + \color {orange} {bfg} + \color {yellow} cdh - \color {lightgreen} {gec} - \color {cyan} {hfa} - \color {purple} idb
 \end {gather}
 $$
+[[Test 2\|Test 2]]
