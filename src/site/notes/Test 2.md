@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-2/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/test-2/"}
 ---
 
 > [!info] Definition
