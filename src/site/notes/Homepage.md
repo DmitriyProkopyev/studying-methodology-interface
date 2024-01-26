@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/homepage/","tags":["gardenEntry"]}
 ---
 
+This is actually an obsidian note :)
+
 > [!info] Description
 > Mnemonic for quick computing of $3 \times 3$ matrix determinant
 
